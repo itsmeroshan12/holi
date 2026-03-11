@@ -297,7 +297,7 @@ export default function WishPage() {
         )}
 
         <p style={{ textAlign: "center", color: "rgba(255,255,255,0.2)", fontSize: 12, marginTop: 24 }}>
-          Bura na mano, Holi hai! 🌈😂
+          Bura na mano, Holi hai! 🌈
         </p>
       </div>
     </main>
