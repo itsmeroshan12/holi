@@ -132,7 +132,7 @@ export default function WishPage() {
             WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text",
             lineHeight: 1.2, marginBottom: 6, letterSpacing: "-0.02em",
           }}>
-            Secret Holi Wish
+            Holi Wish
           </h1>
           <p style={{ color: "rgba(255,255,255,0.55)", fontSize: "clamp(13px,3.5vw,15px)" }}>
             Ek secret wish bhejo — friend tap karke reveal karega! 🎨
